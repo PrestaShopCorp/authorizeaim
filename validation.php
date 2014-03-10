@@ -152,5 +152,4 @@ $url = 'index.php?controller=order-confirmation&';
 if (_PS_VERSION_ < '1.5')
 	$url = 'order-confirmation.php?';
 
-Tools::redirect($url.'id_module='.(int)$authorizeaim->id.'&id_cart='.
-	(int)$cart->id.'&key='.$customer->secure_key);
+Tools::redirect($url.'id_module='.(int)$authorizeaim->id.'&id_cart='.(int)$cart->id.'&key='.$customer->secure_key);
