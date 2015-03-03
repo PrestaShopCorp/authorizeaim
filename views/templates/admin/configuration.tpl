@@ -54,7 +54,7 @@
 							<div class="margin-form" style="margin-bottom: 0px;"><input type="text" size="20" id="authorizeaim_key_{$currency.iso_code}" name="authorizeaim_key_{$currency.iso_code}" value="{${$configuration_key_name}}" /></div>
 						</td>
 					</tr>
-				<table><br />
+				</table><br />
 				<hr size="1" style="background: #BBB; margin: 0; height: 1px;" noshade /><br />
 			{/if}
 		{/foreach}
