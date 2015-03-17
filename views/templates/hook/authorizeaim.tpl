@@ -118,6 +118,7 @@
 				alert(mess_error);
 			} else {
 				$('#authorizeaim_form').submit();
+				$('#asubmit').prop("disabled", true);
 			}
 			return false;
 		});
