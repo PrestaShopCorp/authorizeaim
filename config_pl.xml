@@ -3,7 +3,7 @@
 	<name>authorizeaim</name>
 	<displayName><![CDATA[Authorize.net AIM (Advanced Integration Method)]]></displayName>
 	<version><![CDATA[1.5.6]]></version>
-	<description><![CDATA[Receive payment with Authorize.net]]></description>
+	<description><![CDATA[Otrzymuj płatności z Authorize.net]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[payments_gateways]]></tab>
 	<is_configurable>1</is_configurable>
