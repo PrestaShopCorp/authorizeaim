@@ -33,7 +33,7 @@ class AuthorizeAIM extends PaymentModule
 	{
 		$this->name = 'authorizeaim';
 		$this->tab = 'payments_gateways';
-		$this->version = '1.5.6';
+		$this->version = '1.5.7';
 		$this->author = 'PrestaShop';
 		$this->aim_available_currencies = array('USD','AUD','CAD','EUR','GBP','NZD');
 
@@ -199,6 +199,7 @@ class AuthorizeAIM extends PaymentModule
 			'AUTHORIZE_AIM_CARD_DISCOVER' => Configuration::get('AUTHORIZE_AIM_CARD_DISCOVER'),
 			'AUTHORIZE_AIM_CARD_AX' => Configuration::get('AUTHORIZE_AIM_CARD_AX'),
 			'AUTHORIZE_AIM_HOLD_REVIEW_OS' => (int)Configuration::get('AUTHORIZE_AIM_HOLD_REVIEW_OS'),
+			'PS_SSL_ENABLED' => (int)Configuration::get('PS_SSL_ENABLED'),
 		));
 
 		/* Determine which currencies are enabled on the store and supported by Authorize.net & list one credentials section per available currency */

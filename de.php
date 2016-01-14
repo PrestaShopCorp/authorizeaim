@@ -41,3 +41,4 @@ $_MODULE['<{authorizeaim}prestashop>hookorderconfirmation_30163d8fc3068e8297e7ab
 $_MODULE['<{authorizeaim}prestashop>hookorderconfirmation_0db71da7150c27142eef9d22b843b4a9'] = 'Bei Fragen oder für weitere Informationen, kontaktieren Sie bitte unseren';
 $_MODULE['<{authorizeaim}prestashop>hookorderconfirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'Kunden-Support';
 $_MODULE['<{authorizeaim}prestashop>hookorderconfirmation_8de637e24570c1edb0357826a2ad5aea'] = 'Bei Ihrer Bestellung ist ein Fehler aufgetreten. Bitte wenden Sie sich an unseren';
+$_MODULE['<{authorizeaim}prestashop>configuration_8cda0370e4312f3fef17ba556f801551'] = 'NEIN SSL aktiv ist, Dieses Modul benötigt SSL und wird nicht sichtbar sein, bis SSL aktiviert ist';

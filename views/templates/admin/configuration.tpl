@@ -37,7 +37,7 @@
 
 <form action="{$smarty.server.REQUEST_URI|escape:'htmlall':'UTF-8'}" method="post">
 	<fieldset>
-		<legend>{l s='Configure your existing Authorize.Net Accounts' mod='authorizeaim'}</legend>
+		<legend>{l s='Configure your existing Authorize.Net Accounts' mod='authorizeaim'}{if !$PS_SSL_ENABLED}<p class="authwarn">{l s='NO SSL Active, This module requires SSL and will not be visible until SSL is enabled' mod='authorizeaim'}</p>{/if}</legend>
 
 		{* Determine which currencies are enabled on the store and supported by Authorize.net & list one credentials section per available currency *}
 		{foreach from=$currencies item='currency'}

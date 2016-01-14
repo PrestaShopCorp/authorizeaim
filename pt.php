@@ -23,6 +23,7 @@ $_MODULE['<{authorizeaim}prestashop>configuration_03f8f4f3928ce74658005cb99fdc0c
 $_MODULE['<{authorizeaim}prestashop>configuration_03c31bd8c5c5e7f5ed5af40a3118f2c8'] = 'Registe-se agora';
 $_MODULE['<{authorizeaim}prestashop>configuration_bff2fb80c14b123cf44690141bf3b4f6'] = 'Alguma vez pensou em como os pagamentos por cartão de crédito funcionam? A ligação de uma aplicação de pagamentos às redes de processamento de cartões de crédito é difícil, dispendiosa e ultrapassa os recursos da maioria das atividades comerciais. O módulo Authorize.Net facilita a infraestrutura complexa e oferece a segurança necessárias para garantir transações seguras, rápidas e fiáveis. Veja como:';
 $_MODULE['<{authorizeaim}prestashop>configuration_efdd1d6ffd629c835841d888bd944589'] = 'Configure as suas contas Authorize.Net existentes';
+$_MODULE['<{authorizeaim}prestashop>configuration_8cda0370e4312f3fef17ba556f801551'] = 'NO SSL está activo, este módulo requer SSL e não será visível até que o SSL está habilitado';
 $_MODULE['<{authorizeaim}prestashop>configuration_6cf441df11030d5b0c218bf3d8ab3511'] = 'Credenciais de';
 $_MODULE['<{authorizeaim}prestashop>configuration_1af0389838508d7016a9841eb6273962'] = 'moeda';
 $_MODULE['<{authorizeaim}prestashop>configuration_f3ef34226d51e9ca88eaa2f20d7ffb91'] = 'ID para login';

@@ -35,3 +35,4 @@ fieldset label { clear: left; }
 .authorizeaim-fixFiedlset input[type="text"] { float: left; margin-right: 10px; }
 .authorizeaim-badge { float: right; }
 .margin-form { margin-bottom: 5px; }
+.authwarn { color: #ff0000; }

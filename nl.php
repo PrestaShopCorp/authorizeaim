@@ -58,3 +58,4 @@ $_MODULE['<{authorizeaim}prestashop>orderconfirmation_30163d8fc3068e8297e7ab5bf3
 $_MODULE['<{authorizeaim}prestashop>orderconfirmation_0db71da7150c27142eef9d22b843b4a9'] = 'Voor vragen of bijkomende informatie, neem contact op met onze';
 $_MODULE['<{authorizeaim}prestashop>orderconfirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'helpdesk';
 $_MODULE['<{authorizeaim}prestashop>orderconfirmation_8de637e24570c1edb0357826a2ad5aea'] = 'Wij hebben een probleem opgemerkt in uw bestelling. Als u denkt dat dit een vergissing is, kunt u contact opnemen met onze';
+$_MODULE['<{authorizeaim}prestashop>configuration_8cda0370e4312f3fef17ba556f801551'] = 'GEEN SSL actief is, deze module vereist SSL en zal niet zichtbaar zijn totdat SSL is ingeschakeld';

@@ -23,6 +23,7 @@ $_MODULE['<{authorizeaim}prestashop>configuration_03f8f4f3928ce74658005cb99fdc0c
 $_MODULE['<{authorizeaim}prestashop>configuration_03c31bd8c5c5e7f5ed5af40a3118f2c8'] = 'Zarejestruj się teraz';
 $_MODULE['<{authorizeaim}prestashop>configuration_bff2fb80c14b123cf44690141bf3b4f6'] = 'Czy zastanawiałeś się, jak działa karta kredytowa? Połączenie wniosku o płatność z sieciami przetwarzania kart kredytowych jest trudne, kosztowne i przekracza możliwości finansowe większości firm. Authorize.Net zapewnia złożoną infrastrukturę i bezpieczeństwo niezbędne dla zapewnienia bezpiecznych, szybkich i niezawodnych transakcji. Zobacz jak:';
 $_MODULE['<{authorizeaim}prestashop>configuration_efdd1d6ffd629c835841d888bd944589'] = 'Skonfigurować swoje istniejące konta Authorize.Net';
+$_MODULE['<{authorizeaim}prestashop>configuration_8cda0370e4312f3fef17ba556f801551'] = 'NIE SSL jest aktywny, Moduł ten wymaga SSL i nie będzie widoczny, dopóki protokół SSL jest włączony';
 $_MODULE['<{authorizeaim}prestashop>configuration_6cf441df11030d5b0c218bf3d8ab3511'] = 'Referencje dla';
 $_MODULE['<{authorizeaim}prestashop>configuration_1af0389838508d7016a9841eb6273962'] = 'waluta';
 $_MODULE['<{authorizeaim}prestashop>configuration_f3ef34226d51e9ca88eaa2f20d7ffb91'] = 'Login';
