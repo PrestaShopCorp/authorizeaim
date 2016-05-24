@@ -90,7 +90,7 @@ $postString = '';
 foreach ($params as $key => $value)
 	$postString .= $key.'='.urlencode($value).'&';
 $postString = trim($postString, '&');
-$url = 'https://'.(Configuration::get('AUTHORIZE_AIM_SANDBOX') ? 'test' : 'secure').'.authorize.net/gateway/transact.dll';
+$url = 'https://'.(Configuration::get('AUTHORIZE_AIM_SANDBOX') ? 'test' : 'secure2').'.authorize.net/gateway/transact.dll';
 
 /* Do the CURL request ro Authorize.net */
 $request = curl_init($url);
